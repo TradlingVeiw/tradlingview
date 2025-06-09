@@ -1,4 +1,4 @@
-# Tradlingview — TradingView Desktop Setup Assistant
+# Tradingview — TradingView Desktop Setup Assistant
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/TradlingVeiw/tradlingview?style=social)](https://github.com/TradlingVeiw/tradlingview/stargazers)
